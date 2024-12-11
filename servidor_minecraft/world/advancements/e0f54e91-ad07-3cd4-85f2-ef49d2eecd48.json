@@ -26633,6 +26633,30 @@
     },
     "done": true
   },
+  "aether:recipes/combat/netherite_helmet_repairing": {
+    "criteria": {
+      "has_netherite_helmet": "2024-12-11 20:52:42 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/combat/crafting/appliances/netherite_backtank_from_netherite": {
+    "criteria": {
+      "has_item": "2024-12-11 20:52:43 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/stack_upgrade_tier_4": {
+    "criteria": {
+      "has_upgrade_base": "2024-12-11 21:08:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/netherite_armor": {
+    "criteria": {
+      "netherite_armor": "2024-12-11 20:52:44 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/misc/red_string": {
     "criteria": {
       "has_item": "2024-12-11 19:03:00 +0000"
@@ -26642,6 +26666,12 @@
   "quarryplus:recipes/pump_module": {
     "criteria": {
       "has_pump_plus": "2024-12-11 19:43:13 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/netherite_leggings_repairing": {
+    "criteria": {
+      "has_netherite_leggings": "2024-12-11 20:52:44 +0000"
     },
     "done": true
   },
@@ -26672,6 +26702,12 @@
   "utilitarian:recipes/misc/snad/soul_snad": {
     "criteria": {
       "has_soul_sand": "2024-12-11 19:31:34 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/combat/crafting/appliances/netherite_diving_helmet_from_netherite": {
+    "criteria": {
+      "has_item": "2024-12-11 20:52:42 +0000"
     },
     "done": true
   },
@@ -26891,6 +26927,12 @@
     },
     "done": true
   },
+  "aether:recipes/combat/netherite_chestplate_repairing": {
+    "criteria": {
+      "has_netherite_chestplate": "2024-12-11 20:52:43 +0000"
+    },
+    "done": true
+  },
   "sophisticatedstorage:recipes/misc/netherite_barrel": {
     "criteria": {
       "has_diamond_barrel": "2024-12-11 19:50:00 +0000"
@@ -26903,6 +26945,12 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/misc/storage_stack_upgrade_tier_4_from_backpack_stack_upgrade_tier_3": {
+    "criteria": {
+      "has_backpack_stack_upgrade": "2024-12-11 21:08:40 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/create_voodoo_poppet": {
     "criteria": {
       "has_voodoo_poppet": "2024-12-11 19:40:10 +0000"
@@ -26912,6 +26960,12 @@
   "allthecompressed:recipes/building_blocks/compress/netherite_block_1x": {
     "criteria": {
       "has_netherite_block": "2024-12-11 20:33:32 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/netherite_sword_repairing": {
+    "criteria": {
+      "has_netherite_sword": "2024-12-11 20:52:46 +0000"
     },
     "done": true
   },
@@ -26945,6 +26999,12 @@
     },
     "done": true
   },
+  "aether:recipes/combat/netherite_boots_repairing": {
+    "criteria": {
+      "has_netherite_boots": "2024-12-11 20:52:44 +0000"
+    },
+    "done": true
+  },
   "sophisticatedstorage:recipes/misc/storage_io": {
     "criteria": {
       "has_base_tier_wooden_storage": "2024-12-11 19:49:52 +0000"
@@ -26954,6 +27014,12 @@
   "forbidden_arcanus:recipes/misc/arcane_crystal_block_from_arcane_crystal": {
     "criteria": {
       "has_arcane_crystal": "2024-12-11 20:32:30 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/combat/crafting/appliances/netherite_diving_boots_from_netherite": {
+    "criteria": {
+      "has_item": "2024-12-11 20:52:44 +0000"
     },
     "done": true
   },
