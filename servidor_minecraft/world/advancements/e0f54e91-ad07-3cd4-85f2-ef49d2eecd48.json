@@ -4979,13 +4979,15 @@
       "minecraft:forest": "2024-12-10 01:45:37 +0000",
       "minecraft:lush_caves": "2024-12-10 02:44:58 +0000",
       "minecraft:deep_cold_ocean": "2024-12-10 18:48:28 +0000",
+      "minecraft:desert": "2024-12-11 19:17:38 +0000",
       "minecraft:ocean": "2024-12-10 02:00:37 +0000",
       "minecraft:jungle": "2024-12-11 02:05:37 +0000",
       "minecraft:old_growth_spruce_taiga": "2024-12-10 03:00:15 +0000",
       "minecraft:old_growth_birch_forest": "2024-12-10 18:40:36 +0000",
       "minecraft:deep_dark": "2024-12-10 03:37:07 +0000",
       "minecraft:meadow": "2024-12-10 18:21:50 +0000",
-      "minecraft:savanna": "2024-12-10 01:47:18 +0000"
+      "minecraft:savanna": "2024-12-10 01:47:18 +0000",
+      "minecraft:plains": "2024-12-11 19:16:15 +0000"
     },
     "done": false
   },
@@ -26594,6 +26596,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/green_dye": {
+    "criteria": {
+      "has_cactus": "2024-12-11 19:18:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:end/find_end_city": {
     "criteria": {
       "in_city": "2024-12-11 19:01:55 +0000"
@@ -26630,9 +26638,27 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/cactus": {
+    "criteria": {
+      "has_cactus": "2024-12-11 19:18:04 +0000"
+    },
+    "done": true
+  },
+  "domum_ornamentum:recipes/tools/cactus_extra": {
+    "criteria": {
+      "has_material": "2024-12-11 19:18:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/shiny_gear": {
     "criteria": {
       "diamond_boots": "2024-12-11 19:03:14 +0000"
+    },
+    "done": true
+  },
+  "appflux:recipes/misc/insulating_resin": {
+    "criteria": {
+      "has_item": "2024-12-11 19:18:04 +0000"
     },
     "done": true
   },
