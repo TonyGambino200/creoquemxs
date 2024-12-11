@@ -26591,6 +26591,12 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/misc/backpack_stack_upgrade_tier_2_from_storage_stack_upgrade_tier_3": {
+    "criteria": {
+      "has_storage_stack_upgrade": "2024-12-11 19:50:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/beacon": {
     "criteria": {
       "has_nether_star": "2024-12-11 19:38:21 +0000"
@@ -26621,6 +26627,12 @@
     },
     "done": true
   },
+  "quarryplus:recipes/pump_module": {
+    "criteria": {
+      "has_pump_plus": "2024-12-11 19:43:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/green_dye": {
     "criteria": {
       "has_cactus": "2024-12-11 19:18:04 +0000"
@@ -26636,6 +26648,18 @@
   "utilitarian:recipes/misc/snad/soul_snad": {
     "criteria": {
       "has_soul_sand": "2024-12-11 19:31:34 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/storage_output": {
+    "criteria": {
+      "has_base_tier_wooden_storage": "2024-12-11 19:49:52 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/stack_upgrade_tier_4": {
+    "criteria": {
+      "has_upgrade_base": "2024-12-11 19:50:27 +0000"
     },
     "done": true
   },
@@ -26657,6 +26681,12 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/misc/diamond_barrel": {
+    "criteria": {
+      "has_gold_barrel": "2024-12-11 19:49:58 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/diamond_boots_repairing": {
     "criteria": {
       "has_diamond_boots": "2024-12-11 19:03:14 +0000"
@@ -26669,6 +26699,12 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/misc/iron_barrel": {
+    "criteria": {
+      "has_barrel": "2024-12-11 19:49:52 +0000"
+    },
+    "done": true
+  },
   "constructionwand:recipes/tools/infinity_wand": {
     "criteria": {
       "has_item": "2024-12-11 19:38:21 +0000"
@@ -26678,6 +26714,18 @@
   "tombstone:adventure/strong_undead": {
     "criteria": {
       "coded_trigger": "2024-12-11 19:38:21 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/controller": {
+    "criteria": {
+      "has_base_tier_wooden_storage": "2024-12-11 19:49:52 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/copper_barrel": {
+    "criteria": {
+      "has_barrel": "2024-12-11 19:49:52 +0000"
     },
     "done": true
   },
@@ -26717,6 +26765,12 @@
     },
     "done": true
   },
+  "quarryplus:recipes/waterlogged_flex_marker": {
+    "criteria": {
+      "has_flex_marker": "2024-12-11 19:46:22 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/create_magic_scroll": {
     "criteria": {
       "has_magic_scroll": "2024-12-11 19:40:10 +0000"
@@ -26732,6 +26786,18 @@
   "minecraft:recipes/decorations/soul_torch": {
     "criteria": {
       "has_soul_sand": "2024-12-11 19:31:34 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/storage_input": {
+    "criteria": {
+      "has_base_tier_wooden_storage": "2024-12-11 19:49:52 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/netherite_barrel": {
+    "criteria": {
+      "has_diamond_barrel": "2024-12-11 19:50:00 +0000"
     },
     "done": true
   },
@@ -26768,6 +26834,18 @@
   "deeperdarker:recipes/transportation/soul_elytra": {
     "criteria": {
       "has_elytra": "2024-12-11 19:03:48 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/gold_barrel": {
+    "criteria": {
+      "has_iron_barrel": "2024-12-11 19:49:55 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/storage_io": {
+    "criteria": {
+      "has_base_tier_wooden_storage": "2024-12-11 19:49:52 +0000"
     },
     "done": true
   },
