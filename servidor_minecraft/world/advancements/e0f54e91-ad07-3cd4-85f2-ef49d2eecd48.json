@@ -26633,6 +26633,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/filter_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2024-12-11 21:27:43 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/netherite_helmet_repairing": {
     "criteria": {
       "has_netherite_helmet": "2024-12-11 20:52:42 +0000"
@@ -26651,9 +26657,21 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/stack_upgrade_tier_1": {
+    "criteria": {
+      "has_upgrade_base": "2024-12-11 21:27:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/netherite_armor": {
     "criteria": {
       "netherite_armor": "2024-12-11 20:52:44 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/void_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2024-12-11 21:27:43 +0000"
     },
     "done": true
   },
@@ -26663,9 +26681,27 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/chipped/botanist_workbench_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2024-12-11 21:27:43 +0000"
+    },
+    "done": true
+  },
   "quarryplus:recipes/pump_module": {
     "criteria": {
       "has_pump_plus": "2024-12-11 19:43:13 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/pump_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2024-12-11 21:27:43 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/anvil_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2024-12-11 21:27:43 +0000"
     },
     "done": true
   },
@@ -26678,6 +26714,12 @@
   "aether:recipes/combat/diamond_leggings_repairing": {
     "criteria": {
       "has_diamond_leggings": "2024-12-11 20:49:37 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/chipped/alchemy_bench_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2024-12-11 21:27:43 +0000"
     },
     "done": true
   },
@@ -26705,6 +26747,18 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/tool_swapper_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2024-12-11 21:27:43 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/deposit_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2024-12-11 21:27:43 +0000"
+    },
+    "done": true
+  },
   "create:recipes/combat/crafting/appliances/netherite_diving_helmet_from_netherite": {
     "criteria": {
       "has_item": "2024-12-11 20:52:42 +0000"
@@ -26729,6 +26783,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/smelting_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2024-12-11 21:27:43 +0000"
+    },
+    "done": true
+  },
   "botania:main/ender_air_make": {
     "criteria": {
       "air": "2024-12-11 19:03:00 +0000"
@@ -26750,6 +26810,18 @@
   "minecraft:nether/summon_wither": {
     "criteria": {
       "summoned": "2024-12-11 19:37:38 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/stack_upgrade_starter_tier": {
+    "criteria": {
+      "has_upgrade_base": "2024-12-11 21:27:43 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/chipped/tinkering_table_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2024-12-11 21:27:43 +0000"
     },
     "done": true
   },
@@ -26795,6 +26867,12 @@
     },
     "done": true
   },
+  "allthemodium:recipes/misc/vibranium_dust_from_ore_crushing": {
+    "criteria": {
+      "has_item": "2024-12-11 21:13:18 +0000"
+    },
+    "done": true
+  },
   "sophisticatedstorage:recipes/misc/backpack_stack_upgrade_tier_4_from_storage_stack_upgrade_tier_5": {
     "criteria": {
       "has_storage_stack_upgrade": "2024-12-11 20:36:35 +0000"
@@ -26816,6 +26894,18 @@
   "sophisticatedstorage:recipes/misc/controller": {
     "criteria": {
       "has_base_tier_wooden_storage": "2024-12-11 19:49:52 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/refill_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2024-12-11 21:27:43 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/stack_upgrade_tier_1_from_starter": {
+    "criteria": {
+      "has_upgrade_base": "2024-12-11 21:27:43 +0000"
     },
     "done": true
   },
@@ -26843,9 +26933,21 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/inception_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2024-12-11 21:27:43 +0000"
+    },
+    "done": true
+  },
   "aquaculture:recipes/aquaculture/nether_star_hook": {
     "criteria": {
       "has_items": "2024-12-11 19:38:21 +0000"
+    },
+    "done": true
+  },
+  "mekanismgenerators:heat_generator": {
+    "criteria": {
+      "heat_generator": "2024-12-11 21:28:15 +0000"
     },
     "done": true
   },
@@ -26855,9 +26957,27 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/battery_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2024-12-11 21:27:43 +0000"
+    },
+    "done": true
+  },
   "pylons:recipes/misc/interdiction_pylon": {
     "criteria": {
       "has_netherite_block": "2024-12-11 20:33:32 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/vibranium_dust_from_raw": {
+    "criteria": {
+      "has_raw_vibranium": "2024-12-11 21:13:18 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/stonecutter_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2024-12-11 21:27:43 +0000"
     },
     "done": true
   },
@@ -26885,9 +27005,33 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/smoking_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2024-12-11 21:27:43 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/diamond_helmet_repairing": {
     "criteria": {
       "has_diamond_helmet": "2024-12-11 20:49:33 +0000"
+    },
+    "done": true
+  },
+  "allthemodium:recipes/misc/vibranium_ingot_from_raw_smelting": {
+    "criteria": {
+      "has_item": "2024-12-11 21:13:18 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/chipped/glassblower_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2024-12-11 21:27:43 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/blasting_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2024-12-11 21:27:43 +0000"
     },
     "done": true
   },
@@ -26897,9 +27041,27 @@
     },
     "done": true
   },
+  "mekanism:infusing_efficiency": {
+    "criteria": {
+      "enriched_material": "2024-12-11 21:30:59 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/create_magic_scroll": {
     "criteria": {
       "has_magic_scroll": "2024-12-11 19:40:10 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/tank_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2024-12-11 21:27:43 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/sulfur_dust_from_gem": {
+    "criteria": {
+      "has_sulfur_gem": "2024-12-11 21:12:39 +0000"
     },
     "done": true
   },
@@ -26912,6 +27074,12 @@
   "minecraft:recipes/decorations/soul_torch": {
     "criteria": {
       "has_soul_sand": "2024-12-11 19:31:34 +0000"
+    },
+    "done": true
+  },
+  "allthemodium:recipes/misc/vibranium_ingot_from_raw_blasting": {
+    "criteria": {
+      "has_item": "2024-12-11 21:13:18 +0000"
     },
     "done": true
   },
@@ -26939,6 +27107,12 @@
     },
     "done": true
   },
+  "mekanism:purification_chamber": {
+    "criteria": {
+      "purification_chamber": "2024-12-11 21:29:39 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/smelting/scoria": {
     "criteria": {
       "has_item": "2024-12-11 19:31:34 +0000"
@@ -26963,6 +27137,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/crafting_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2024-12-11 21:27:43 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/netherite_sword_repairing": {
     "criteria": {
       "has_netherite_sword": "2024-12-11 20:52:46 +0000"
@@ -26975,6 +27155,30 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/feeding_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2024-12-11 21:27:43 +0000"
+    },
+    "done": true
+  },
+  "allthemodium:recipes/misc/raw_vibranium_block": {
+    "criteria": {
+      "has_raw_vibranium": "2024-12-11 21:13:18 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/chipped/mason_table_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2024-12-11 21:27:43 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/chipped/carpenters_table_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2024-12-11 21:27:43 +0000"
+    },
+    "done": true
+  },
   "appflux:recipes/misc/insulating_resin": {
     "criteria": {
       "has_item": "2024-12-11 19:18:04 +0000"
@@ -26984,6 +27188,12 @@
   "botania:recipes/redstone/corporea_spark": {
     "criteria": {
       "has_item": "2024-12-11 19:03:00 +0000"
+    },
+    "done": true
+  },
+  "mekanism:advanced_control_circuit": {
+    "criteria": {
+      "advanced_control_circuit": "2024-12-11 21:28:33 +0000"
     },
     "done": true
   },
@@ -27005,9 +27215,33 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/pickup_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2024-12-11 21:27:43 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/jukebox_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2024-12-11 21:27:43 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/everlasting_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2024-12-11 21:27:43 +0000"
+    },
+    "done": true
+  },
   "sophisticatedstorage:recipes/misc/storage_io": {
     "criteria": {
       "has_base_tier_wooden_storage": "2024-12-11 19:49:52 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/compacting_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2024-12-11 21:27:43 +0000"
     },
     "done": true
   },
@@ -27017,9 +27251,27 @@
     },
     "done": true
   },
+  "occultism:recipes/crushing/crushing/vibranium_dust": {
+    "criteria": {
+      "has_vibranium": "2024-12-11 21:23:55 +0000"
+    },
+    "done": true
+  },
   "create:recipes/combat/crafting/appliances/netherite_diving_boots_from_netherite": {
     "criteria": {
       "has_item": "2024-12-11 20:52:44 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/chipped/loom_table_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2024-12-11 21:27:43 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/restock_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2024-12-11 21:27:43 +0000"
     },
     "done": true
   },
