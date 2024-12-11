@@ -3215,3 +3215,9 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [11Dec2024 19:16:38.269] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 42839ms or 856 ticks behind
 [11Dec2024 19:31:26.382] [Server thread/INFO] [net.blay09.mods.netherportalfix.NetherPortalFix/]: No return portal found
 [11Dec2024 19:31:28.467] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2087ms or 41 ticks behind
+[11Dec2024 19:37:38.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Matikd has made the advancement [Withering Heights]
+[11Dec2024 19:38:21.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Matikd has reached the goal [Strong Undead]
+[11Dec2024 19:38:44.551] [Worker-Main-16/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=-201, y=-51, z=160}
+[11Dec2024 19:40:10.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Matikd has made the advancement [Not even afraid of death]
+[11Dec2024 19:40:10.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Matikd has made the advancement [Back to childhood]
+[11Dec2024 19:40:10.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Matikd has made the advancement [Magic Writing]
