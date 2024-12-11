@@ -26645,6 +26645,12 @@
     },
     "done": true
   },
+  "aether:recipes/combat/diamond_leggings_repairing": {
+    "criteria": {
+      "has_diamond_leggings": "2024-12-11 20:49:37 +0000"
+    },
+    "done": true
+  },
   "alltheores:recipes/misc/ruby_block": {
     "criteria": {
       "has_TagKey[minecraft:item / forge:gems/ruby]_ingot": "2024-12-11 20:32:40 +0000"
@@ -26723,6 +26729,12 @@
     },
     "done": true
   },
+  "mekanism:steel_casing": {
+    "criteria": {
+      "steel_casing": "2024-12-11 20:44:19 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/diamond_boots_repairing": {
     "criteria": {
       "has_diamond_boots": "2024-12-11 19:03:14 +0000"
@@ -26738,6 +26750,12 @@
   "sophisticatedstorage:recipes/misc/iron_barrel": {
     "criteria": {
       "has_barrel": "2024-12-11 19:49:52 +0000"
+    },
+    "done": true
+  },
+  "mekanism:enricher": {
+    "criteria": {
+      "enrichment_chamber": "2024-12-11 20:44:21 +0000"
     },
     "done": true
   },
@@ -26831,6 +26849,12 @@
     },
     "done": true
   },
+  "aether:recipes/combat/diamond_helmet_repairing": {
+    "criteria": {
+      "has_diamond_helmet": "2024-12-11 20:49:33 +0000"
+    },
+    "done": true
+  },
   "forbidden_arcanus:recipes/misc/blasting/arcane_crystal_dust_from_blasting": {
     "criteria": {
       "has_item": "2024-12-11 20:32:30 +0000"
@@ -26858,6 +26882,12 @@
   "sophisticatedstorage:recipes/misc/storage_input": {
     "criteria": {
       "has_base_tier_wooden_storage": "2024-12-11 19:49:52 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/diamond_chestplate_repairing": {
+    "criteria": {
+      "has_diamond_chestplate": "2024-12-11 20:49:30 +0000"
     },
     "done": true
   },

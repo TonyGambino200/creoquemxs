@@ -3223,3 +3223,15 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [11Dec2024 19:40:10.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Matikd has made the advancement [Magic Writing]
 [11Dec2024 20:44:19.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Matikd has made the advancement [The Perfect Foundation]
 [11Dec2024 20:44:21.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Matikd has made the advancement [Getting More From Less]
+[11Dec2024 20:50:36.409] [Server thread/INFO] [net.blay09.mods.netherportalfix.NetherPortalFix/]: No return portal found
+[11Dec2024 20:52:44.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Matikd has completed the challenge [Cover Me in Debris]
+[11Dec2024 20:52:52.389] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: PAPITONY[/100.95.155.26:60664] logged in with entity id 28375 at (863.0749999880791, 64.0, 2512.3643099978785)
+[11Dec2024 20:52:52.426] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to PAPITONY
+[11Dec2024 20:52:52.427] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to PAPITONY
+[11Dec2024 20:52:52.428] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to PAPITONY
+[11Dec2024 20:52:52.428] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to PAPITONY
+[11Dec2024 20:52:52.430] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to PAPITONY
+[11Dec2024 20:52:52.432] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to PAPITONY
+[11Dec2024 20:52:52.433] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to PAPITONY
+[11Dec2024 20:52:52.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PAPITONY joined the game
+[11Dec2024 20:52:53.108] [Server thread/INFO] [Jade/]: Syncing config to PAPITONY (da70a64e-63b2-306b-971f-7d8443be4513)
