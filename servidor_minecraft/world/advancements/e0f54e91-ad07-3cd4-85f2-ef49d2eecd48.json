@@ -26579,6 +26579,12 @@
     },
     "done": false
   },
+  "forbidden_arcanus:recipes/misc/smelting/arcane_crystal_dust_from_smelting": {
+    "criteria": {
+      "has_item": "2024-12-11 20:32:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:end/elytra": {
     "criteria": {
       "elytra": "2024-12-11 19:03:48 +0000"
@@ -26621,6 +26627,12 @@
     },
     "done": true
   },
+  "forbidden_arcanus:recipes/tools/lens_of_veritatis": {
+    "criteria": {
+      "has_arcane_crystal": "2024-12-11 20:32:30 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/misc/red_string": {
     "criteria": {
       "has_item": "2024-12-11 19:03:00 +0000"
@@ -26630,6 +26642,12 @@
   "quarryplus:recipes/pump_module": {
     "criteria": {
       "has_pump_plus": "2024-12-11 19:43:13 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/ruby_block": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:gems/ruby]_ingot": "2024-12-11 20:32:40 +0000"
     },
     "done": true
   },
@@ -26663,9 +26681,21 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/misc/stack_upgrade_tier_5": {
+    "criteria": {
+      "has_upgrade_base": "2024-12-11 20:33:28 +0000"
+    },
+    "done": true
+  },
   "botania:main/ender_air_make": {
     "criteria": {
       "air": "2024-12-11 19:03:00 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/backpack_stack_upgrade_tier_3_from_storage_stack_upgrade_tier_4": {
+    "criteria": {
+      "has_storage_stack_upgrade": "2024-12-11 20:33:28 +0000"
     },
     "done": true
   },
@@ -26687,6 +26717,12 @@
     },
     "done": true
   },
+  "occultism:recipes/crushing/crushing/arcane_crystal_dust_from_gem": {
+    "criteria": {
+      "has_arcane_crystal_gem": "2024-12-11 20:32:30 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/diamond_boots_repairing": {
     "criteria": {
       "has_diamond_boots": "2024-12-11 19:03:14 +0000"
@@ -26702,6 +26738,12 @@
   "sophisticatedstorage:recipes/misc/iron_barrel": {
     "criteria": {
       "has_barrel": "2024-12-11 19:49:52 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/backpack_stack_upgrade_tier_4_from_storage_stack_upgrade_tier_5": {
+    "criteria": {
+      "has_storage_stack_upgrade": "2024-12-11 20:36:35 +0000"
     },
     "done": true
   },
@@ -26759,6 +26801,24 @@
     },
     "done": true
   },
+  "pylons:recipes/misc/interdiction_pylon": {
+    "criteria": {
+      "has_netherite_block": "2024-12-11 20:33:32 +0000"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/misc/clibano_combustion/arcane_crystal_dust_from_clibano_combusting": {
+    "criteria": {
+      "has_item": "2024-12-11 20:32:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_ingot_from_netherite_block": {
+    "criteria": {
+      "has_netherite_block": "2024-12-11 20:33:32 +0000"
+    },
+    "done": true
+  },
   "allthecompressed:recipes/building_blocks/compress/soul_sand_1x": {
     "criteria": {
       "has_soul_sand": "2024-12-11 19:31:34 +0000"
@@ -26768,6 +26828,12 @@
   "quarryplus:recipes/waterlogged_flex_marker": {
     "criteria": {
       "has_flex_marker": "2024-12-11 19:46:22 +0000"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/misc/blasting/arcane_crystal_dust_from_blasting": {
+    "criteria": {
+      "has_item": "2024-12-11 20:32:30 +0000"
     },
     "done": true
   },
@@ -26813,6 +26879,12 @@
     },
     "done": true
   },
+  "allthecompressed:recipes/building_blocks/compress/netherite_block_1x": {
+    "criteria": {
+      "has_netherite_block": "2024-12-11 20:33:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/shiny_gear": {
     "criteria": {
       "diamond_boots": "2024-12-11 19:03:14 +0000"
@@ -26846,6 +26918,18 @@
   "sophisticatedstorage:recipes/misc/storage_io": {
     "criteria": {
       "has_base_tier_wooden_storage": "2024-12-11 19:49:52 +0000"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/misc/arcane_crystal_block_from_arcane_crystal": {
+    "criteria": {
+      "has_arcane_crystal": "2024-12-11 20:32:30 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/ruby_dust_from_gem": {
+    "criteria": {
+      "has_ruby_gem": "2024-12-11 20:32:40 +0000"
     },
     "done": true
   },
